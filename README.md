@@ -6,3 +6,4 @@
 <hr>
 <img width="1152" height="912" alt="CoffeeRushCover" src="https://github.com/user-attachments/assets/94fe9f26-c16e-4d85-949f-242e52b1a161" />
 <hr>
+<img width="2160" height="2160" alt="image" src="https://github.com/user-attachments/assets/2232a464-4e4b-4da8-a5e3-6c7dc04ba9b8" />
