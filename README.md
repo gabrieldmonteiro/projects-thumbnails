@@ -12,3 +12,5 @@
 <hr>
 <img width="1200" height="675" alt="whatsapp-multi" src="https://raw.githubusercontent.com/gabrieldmonteiro/projects-thumbnails/main/whatsapp-multi.png" />
 <hr>
+<img width="1200" height="675" alt="currency-converter" src="https://raw.githubusercontent.com/gabrieldmonteiro/projects-thumbnails/main/currency-converter.png" />
+<hr>
