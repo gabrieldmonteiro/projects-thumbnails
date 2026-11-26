@@ -14,3 +14,5 @@
 <hr>
 <img width="1200" height="675" alt="currency-converter" src="https://raw.githubusercontent.com/gabrieldmonteiro/projects-thumbnails/main/currency-converter.png" />
 <hr>
+<img width="1200" height="675" alt="monstergamestore" src="https://raw.githubusercontent.com/gabrieldmonteiro/projects-thumbnails/main/monstergamestore.png" />
+<hr>
